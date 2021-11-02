@@ -6,3 +6,7 @@ Este exemplo foi projetado para rodar num set-top box bem simples como por exemp
 Se quiser baixar a apresentação ela está disponível em:
 
 https://docs.google.com/presentation/d/1rvlD_pbql9KNiqhbsjxqMWDqm5r7_yy4/edit?usp=sharing&ouid=112846970336395624241&rtpof=true&sd=true
+
+Vídeo demonstrando a aplicação funcionadno no link abaixo:
+
+https://youtu.be/jgwJ9el9D1M
